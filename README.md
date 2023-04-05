@@ -1,27 +1,20 @@
-# First
+# Nobel Portfolio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+![Nobel Portfolio Angular](ng.png)
 
-## Development server
+`npm install`
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+`ng serve`
 
-## Code scaffolding
+`localhost:4200`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+`ng build`
 
-## Build
+`push dist/mvc folder`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+demo [https://angularios.web.app/](https://angularios.web.app/)
 
-## Running unit tests
+doc : [https://www.hockeycomputindo.com/2022/05/angular-mvc-free-download-source-code.html](https://www.hockeycomputindo.com/2022/05/angular-mvc-free-download-source-code.html)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+video [https://youtu.be/hg8WKeVM7zU](https://youtu.be/hg8WKeVM7zU)
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
