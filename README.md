@@ -2,6 +2,7 @@
 
 ![Nobel Portfolio Angular](ng.png)
 
+!!![To run locally]
 `npm install`
 
 `ng serve`
@@ -10,11 +11,8 @@
 
 `ng build`
 
-`push dist/mvc folder`
+`push dist/first folder`
 
-demo [https://angularios.web.app/](https://angularios.web.app/)
-
-doc : [https://www.hockeycomputindo.com/2022/05/angular-mvc-free-download-source-code.html](https://www.hockeycomputindo.com/2022/05/angular-mvc-free-download-source-code.html)
-
-video [https://youtu.be/hg8WKeVM7zU](https://youtu.be/hg8WKeVM7zU)
+demo [https://nobel-porfolio-angular.netlify.app](https://nobel-porfolio-angular.netlify.app)
+doc : [https://github.com/BsoftLimited/porfolio-angular](https://github.com/BsoftLimited/porfolio-angular)
 
