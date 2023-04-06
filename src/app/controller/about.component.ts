@@ -11,5 +11,5 @@ export class About{
   cover1 = 'assets/images/creativity-concept.jpg';
   sclist = 'Download Source Code.';
   sc1 = 'Github →';
-  sc1url = 'https://github.com/BsoftLimited/first';
+  sc1url = 'https://github.com/BsoftLimited/porfolio-angular';
 }
